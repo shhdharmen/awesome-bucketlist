@@ -1,0 +1,3 @@
+[submodule "awesome-bucketlist-frontend"]
+	path = awesome-bucketlist-frontend
+	url = https://github.com/shhdharmen/awseome-bucketlist-frontend.git

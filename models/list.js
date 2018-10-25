@@ -1,6 +1,5 @@
 //Require mongoose package
 const mongoose = require('mongoose');
-const bucketlist = require('../models/List');
 
 //Define BucketlistSchema with title, description and category
 const BucketlistSchema = mongoose.Schema({
